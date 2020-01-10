@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace fukuten_20200120_sample
+namespace myconsole
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World in .NET Core");
         }
     }
 }
